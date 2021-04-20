@@ -101,6 +101,7 @@ background: url('../images/fake-news.png');
 	height: 300px;
 }
 
+/*Slideshow*/
 .fling-minislide {width:100%; height:0px; padding-bottom: 100%; overflow:hidden; position:relative; }
 .fling-minislide img{ position:absolute; animation:fling-minislide 20s infinite; opacity:0; width: 100%; height: auto;}
 
